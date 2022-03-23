@@ -10,6 +10,7 @@ const App=()=> {
     <div>
       <h1>Redux Example</h1>
       <p>it manage state</p>
+      <p>redux</p>
       
     </div>
     <div><span>
