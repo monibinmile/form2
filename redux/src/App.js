@@ -9,7 +9,7 @@ const App=()=> {
     <>
     <div>
       <h1>Redux Example</h1>
-     
+      <p>it manage state</p>
     </div>
     <div><span>
     <button onClick={()=>dispatch(addInc())}>+</button>
